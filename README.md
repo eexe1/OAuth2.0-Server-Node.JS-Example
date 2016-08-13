@@ -1,4 +1,4 @@
-OAuth2orizeRecipes
+OAuth2.0-Server-Node.JS-Example
 ==================
 
 This project is based on [FrankHassanabad/Oauth2orizeRecipes](https://github.com/FrankHassanabad/Oauth2orizeRecipes)
